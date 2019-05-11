@@ -1,5 +1,7 @@
 # DevConnector Theme / UI
 
+> Full theme with Sass (.scss) files
+
 ### Landing Page
 
 ![](landing.png)
@@ -15,5 +17,3 @@
 ### Developers Page
 
 ![](developers.png)
-
-> Full theme with Sass (.scss) files
